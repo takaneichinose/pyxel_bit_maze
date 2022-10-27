@@ -1,4 +1,3 @@
-from tkinter import N
 import pyxel
 
 from utils.scene import Scene
