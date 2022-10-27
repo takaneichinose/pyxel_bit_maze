@@ -23,3 +23,9 @@ Avoid the spiders that are hidden around the map. If you made contact to it, you
 All the assets (images/audios) are created using this game engine.
 
 I used [Visual Studio Code](https://code.visualstudio.com) to write the program.
+
+## The game
+
+The game can be access by clicking the link below
+
+[Pyxel Bit Maze](https://kitao.github.io/pyxel/wasm/launcher/?play=takaneichinose.pyxel_bit_maze.pyxapp.bit_maze&gamepad=enabled)
