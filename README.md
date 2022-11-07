@@ -26,6 +26,8 @@ I used [Visual Studio Code](https://code.visualstudio.com) to write the program.
 
 ## The game
 
-The game can be access by clicking the link below
+The game can be access by clicking one of the links below.
 
 [Pyxel Bit Maze](https://kitao.github.io/pyxel/wasm/launcher/?play=takaneichinose.pyxel_bit_maze.pyxapp.bit_maze&gamepad=enabled)
+
+[Codepen](https://codepen.io/takaneichinose/pen/OJEPYVp)
